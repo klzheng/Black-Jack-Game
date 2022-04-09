@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[18]:
 
 
 import random
@@ -189,7 +188,6 @@ def main(): # main function to tie it all in
     playagain()
 
 
-# In[19]:
 
 
 ## Main Code
@@ -203,7 +201,6 @@ playDeck = Deck()
 main()
 
 
-# In[ ]:
 
 
 
